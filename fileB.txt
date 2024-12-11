@@ -1,2 +1,3 @@
 "This is my first file." 
 "commit of user 1." 
+"New." 
