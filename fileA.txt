@@ -1,1 +1,2 @@
 "This is file A." 
+"commit of user 1." 
